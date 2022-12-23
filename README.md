@@ -1,28 +1,28 @@
 # mvelame
 
 
-Welcome!
+#Welcome!
 This is my personal GitHub profile. Here you can find my projects, study notes and lessons.
 
-Contact
+#Contact
 E-mail: marcelomsv2009@gmail.com
 Telegram: https://t.me/mvelame
 
-Technologies
-
+#Technologies
 Frontend (HTML5, CSS3, JavaScript, React)
 Backend (Java, Apex, Node.js)
 Databases (PostgreSQL, Microsoft SQL Server, MongoDB)
 Payment APIs (PicPay, Mercado Pago, Paypal, PagSeguro, Cielo)
 
-Languages
+#Languages
 English (Intermediate) - B2 Level
 Portuguese (Native) - C2 Level
 Spanish (Basic) - A2 Level
 
-Academic
+#Academic
 BSc. in Electrical Engineering - UNINOVE -
+CST. in systems analysis and development - UNIP
 
-Certifications
+#Certifications
 Sesforce Certified Administrator -
-Salesforce Certified Plataform App Builder - 
+Salesforce Certified Plataform App Builder
