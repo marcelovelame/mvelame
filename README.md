@@ -1,6 +1,3 @@
-# mvelame
-
-
 # Welcome!
 This is my personal GitHub profile. Here you can find my projects, study notes and lessons.
 
@@ -24,5 +21,5 @@ BSc. in Electrical Engineering - UNINOVE -
 CST. in systems analysis and development - UNIP
 
 # Certifications
-Sesforce Certified Administrator -
+Sesforce Certified Administrator
 Salesforce Certified Plataform App Builder
